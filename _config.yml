@@ -1,0 +1,14 @@
+layout_spectrum: 0.6016742
+color:
+  saturation: 0.7313807
+  lightness: 0.2383864
+  brandStrength: 0.4446396
+  rhythmicContrast: 0.8199917
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+typography_spectrum: 0.4613319
+name: Nullpothesis
