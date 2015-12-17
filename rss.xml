@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Nullpothesis]]></title>
+        <description><![CDATA[Nullpothesis]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 17 Dec 2015 05:32:09 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Waterloo]]></title>
+            <description><![CDATA[<article><h1>Waterloo</h1><p>A mythical University in Canada where many good Engineers and Computer Scientists come from.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/eaa048af34d32bbc492a620bfa66d2c94cb1038e.png"></article>]]></description>
+            <link>https://t.co/NNzU4T32nI</link>
+            <guid isPermaLink="false">6c6d85f0-e25e-4dc6-80fb-6b01fcae90cc</guid>
+            <pubDate>Thu, 17 Dec 2015 05:32:09 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
