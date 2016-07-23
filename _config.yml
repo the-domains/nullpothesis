@@ -1,7 +1,18 @@
-layout_spectrum: 0.6016742
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.07250267
 color:
   saturation: 0.7313807
-  lightness: 0.2383864
   brandStrength: 0.4446396
   rhythmicContrast: 0.8199917
   brandColors:
@@ -10,5 +21,6 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-typography_spectrum: 0.4613319
+  lightness: 0.2383864
+layout_spectrum: 0.6016742
 name: Nullpothesis
