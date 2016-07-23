@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Nullpothesis]]></title>
         <description><![CDATA[Nullpothesis]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/nullpothesis/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Dec 2015 05:32:09 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 23 Jul 2016 02:55:59 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/nullpothesis/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Hello world ]]></title>
+            <description><![CDATA[<article><h1>Hello world </h1><p>Hello world!</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/96caf656-7de0-43de-81c1-f0e9768b8e0a.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/96caf656-7de0-43de-81c1-f0e9768b8e0a.jpg</link>
+            <guid isPermaLink="false">4c1d3c48-8918-4018-a1da-6e9cbaea0c1a</guid>
+            <pubDate>Sat, 23 Jul 2016 02:55:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Waterloo]]></title>
             <description><![CDATA[<article><h1>Waterloo</h1><p>A mythical University in Canada where many good Engineers and Computer Scientists come from.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/eaa048af34d32bbc492a620bfa66d2c94cb1038e.png"></article>]]></description>
