@@ -16,6 +16,9 @@ navigation:
   - name: LinkedIn
     url: 'https://www.linkedin.com/in/andrewpeynado'
     type: external
+  - name: About Me
+    id: 0f1699f8-758d-417f-881d-154183401912
+    type: content
 collections:
   - index:
       path: /
