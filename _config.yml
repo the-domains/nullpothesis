@@ -12,6 +12,10 @@ color:
   lightness: 0.2383864
 layout_spectrum: 0.6016742
 name: Nullpothesis
+navigation:
+  - name: LinkedIn
+    url: 'https://www.linkedin.com/in/andrewpeynado'
+    type: external
 collections:
   - index:
       path: /
