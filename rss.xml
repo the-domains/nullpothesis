@@ -4,7 +4,7 @@
         <description><![CDATA[tech x product x data]]></description>
         <link>https://thegrid.ai/nullpothesis/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 03 Sep 2016 02:01:12 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Sep 2016 02:01:17 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/nullpothesis/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Hello world]]></title>
@@ -12,13 +12,6 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/96caf656-7de0-43de-81c1-f0e9768b8e0a.jpg</link>
             <guid isPermaLink="false">4c1d3c48-8918-4018-a1da-6e9cbaea0c1a</guid>
             <pubDate>Sat, 03 Sep 2016 02:01:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4a37eeb3-8d2d-4b2f-82b9-dcbf5031cd81.png">]]></description>
-            <link>https://thegrid.ai/nullpothesis/7b1ef3c7-61f6-42e8-bc5b-be1d4fc8b262/index.html</link>
-            <guid isPermaLink="false">7b1ef3c7-61f6-42e8-bc5b-be1d4fc8b262</guid>
-            <pubDate>Sat, 03 Sep 2016 01:54:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
